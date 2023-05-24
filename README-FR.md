@@ -7,6 +7,8 @@ Un petit projet sur le quel je bosse.
     Faites: WIN+R et entrez "cmd" (sans les guillemets evidement) dans la fenètre qui vient de s'ouvrir.
 
  2-Tapez: "pip install wikipediaapi" puis, "pip install subprocess"
+ 
+ 3-Executez le programme avec "py FR.py"
 
 
 Syntaxes implémentés pour l'instant:
