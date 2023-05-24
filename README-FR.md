@@ -6,6 +6,7 @@ Un petit projet sur le quel je bosse.
  1-Ouvrir le cmd
     Faites: WIN+R et entrez "cmd" (sans les guillemets evidement) dans la fenètre qui vient de s'ouvrir.
 
+ 2-Tapez: "pip install wikipediaapi" puis, "pip install subprocess"
 
 
 Syntaxes implémentés pour l'instant:
