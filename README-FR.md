@@ -8,7 +8,7 @@ AVANT: Téléchargez python(https://python.org) ainsi que PIP(https://pypi.org/p
  1-Ouvrir TERMINAL PYTHON
     Cherchez le sur votre appareil et executez le.
 
- 2-Tapez: "pip install wikipediaapi" puis, "pip install subprocess"
+ 2-Tapez: d'abords;"py get-pip.py"Puis, "pip install wikipediaapi" et enfin, "pip install subprocess"
  
  3-Executez le programme avec "py FR.py"
 
