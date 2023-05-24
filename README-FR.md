@@ -1,6 +1,7 @@
 # Chatbot par Linkfandos
 Un petit projet sur le quel je bosse.
 
+AVANT: Téléchargez python depuis le microsoft store.
  COMMENT INSTALLER:
  
  1-Ouvrir le cmd
