@@ -1,7 +1,7 @@
 # Chatbot par Linkfandos
 Un petit projet sur le quel je bosse.
 
-AVANT: Téléchargez python et executez le.
+AVANT: Téléchargez python(https://python.org) ainsi que PIP(https://pypi.org/project/pip/)et executez le.
 
  COMMENT INSTALLER:
  
