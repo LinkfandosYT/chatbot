@@ -1,11 +1,12 @@
 # Chatbot par Linkfandos
 Un petit projet sur le quel je bosse.
 
-AVANT: Téléchargez python depuis le microsoft store.
+AVANT: Téléchargez python et executez le.
+
  COMMENT INSTALLER:
  
- 1-Ouvrir le cmd
-    Faites: WIN+R et entrez "cmd" (sans les guillemets evidement) dans la fenètre qui vient de s'ouvrir.
+ 1-Ouvrir TERMINAL PYTHON
+    Cherchez le sur votre appareil et executez le.
 
  2-Tapez: "pip install wikipediaapi" puis, "pip install subprocess"
  
