@@ -2,7 +2,7 @@
 An custom chatbot for windows that im curently working on.
 Nothing very interesting.
 
-Commands implemented so far:
+**_Commands implemented so far:_**
 
 •execute: execute an program just like the "Execute..." window.
 
@@ -11,7 +11,7 @@ Commands implemented so far:
   Exemple: execute taskmgr
     
     
-•definition: Search an definition or meaning of an given word.
+•definition: Search an definition or meaning of an given word. Works only in french so far.
     
     Syntax: definition <word/stuff>
     
