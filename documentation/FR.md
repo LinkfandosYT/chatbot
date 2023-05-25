@@ -6,7 +6,8 @@ Note: PIP est installé par defaut dans PYTHON 3.1 . Il suffit d'executer un fic
 
  COMMENT INSTALLER:
  **MOYEN 1**
- Ouvrir update.py :/
+ Ouvrir RUNBEFORE.py lol
+ 
  **MOYEN 2**
  1-Ouvrir TERMINAL PYTHON
     Cherchez le sur votre appareil et executez le.
