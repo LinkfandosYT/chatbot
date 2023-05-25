@@ -5,7 +5,9 @@ AVANT: Téléchargez python(https://python.org ) ainsi que PIP(https://pypi.org/
 Note: PIP est installé par defaut dans PYTHON 3.1 . Il suffit d'executer un fichier inclut nommé "get-pip"
 
  COMMENT INSTALLER:
- 
+ **MOYEN 1**
+ Ouvrir update.py :/
+ **MOYEN 2**
  1-Ouvrir TERMINAL PYTHON
     Cherchez le sur votre appareil et executez le.
 
