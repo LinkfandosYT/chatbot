@@ -1,18 +1,21 @@
-# Linkfandos Chatbot
-An custom chatbot for windows that im curently working on.
-Nothing very interesting.
+#Linkfandos chatbot
 
-**_Commands implemented so far:_**
+A small project I'm working on.
 
-•execute: execute an program just like the "Execute..." window.
+BEFORE: Download Python (https://python.org) and PIP (https://pypi.org/project/pip/) and execute it. Note: PIP is installed by default in Python 3.1. Just execute an included file named "get-pip".
 
- Syntax: execute <programemplacement>
-    
-  Exemple: execute taskmgr
-    
-    
-•definition: Search an definition or meaning of an given word. Works only in french so far.
-    
-    Syntax: definition <word/stuff>
-    
-     Exemple: definition GitHub
+HOW TO INSTALL: METHOD 1 Open RUNBEFORE.py lol
+
+METHOD 2 1- Open PYTHON TERMINAL Look for it on your device and execute it.
+
+2- Type: first, "py get-pip.py" Then, "pip install requests", "pip install subprocess", and finally "pip install wikipedia".
+
+3- Run the program with "py FR.py".
+
+Implemented syntaxes so far:
+
+definition: Look up a definition.
+
+Syntax: definition
+
+Example: definition GitHub
