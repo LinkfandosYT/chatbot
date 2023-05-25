@@ -9,7 +9,7 @@ Note: PIP est installé par defaut dans PYTHON 3.1 . Il suffit d'executer un fic
  1-Ouvrir TERMINAL PYTHON
     Cherchez le sur votre appareil et executez le.
 
- 2-Tapez: d'abords;"py get-pip.py"Puis, "pip install requests" et enfin, "pip install subprocess"
+ 2-Tapez: d'abords;"py get-pip.py"Puis, "pip install requests" , "pip install subprocess", et enfin "pip install wikipedia"
  
  3-Executez le programme avec "py FR.py"
 
